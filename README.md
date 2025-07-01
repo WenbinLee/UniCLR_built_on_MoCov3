@@ -1,11 +1,11 @@
 ## UniCLR
 
 ### Introduction
-This is a PyTorch implementation of [UniCLR](https://arxiv.org/abs/2211.14516) based on the [MoCo V3](https://github.com/facebookresearch/moco-v3)) for self-supervised ResNet and ViT.
+This is a PyTorch implementation of [UniCLR](https://arxiv.org/abs/2211.14516) based on the [MoCo V3](https://github.com/facebookresearch/moco-v3) for self-supervised ResNet and ViT.
 
 
 
-See the instructions in the [transfer](https://github.com/facebookresearch/moco-v3) dir.
+See the instructions in the [MoCo v3](https://github.com/facebookresearch/moco-v3) dir.
 
 ### License
 
