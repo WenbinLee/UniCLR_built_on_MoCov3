@@ -1,7 +1,7 @@
 ## UniCLR
 
 ### Introduction
-This is a PyTorch implementation of ''A Unified Framework for Contrastive Learning from a Perspective of Affinity Matrix'' based on the [MoCo V3](https://github.com/facebookresearch/moco-v3) for self-supervised ResNet and ViT.
+This is a PyTorch implementation of ''A Unified Framework for Contrastive Learning from a Perspective of Affinity Matrix'' based on the [MoCo V3](https://github.com/facebookresearch/moco-v3).
 
 
 
